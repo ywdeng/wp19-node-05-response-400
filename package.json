@@ -1,0 +1,18 @@
+{
+  "name": "05-response-400",
+  "version": "1.0.0",
+  "description": "Simple Request-Response with HTML template",
+  "main": "index.js",
+  "scripts": {
+    "test": "set DEBUG=05-response-400:* && nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywdeng/node-05-response-400.git"
+  },
+  "author": "ywdeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
